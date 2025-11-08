@@ -1,0 +1,10 @@
+{
+    "BEKA10": {
+        "discount": 10000,
+        "min_order": 35000
+    },
+    "BEKK11": {
+        "discount": 3000,
+        "min_order": 30000
+    }
+}

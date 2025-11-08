@@ -1,0 +1,6 @@
+pytelegrambotapi
+requests
+geopy
+pytesseract
+pillow
+pytz
